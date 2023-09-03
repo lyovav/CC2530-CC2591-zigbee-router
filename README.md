@@ -3,7 +3,7 @@
 
 ![deb001](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/48abde43-a963-49af-9cd5-bdaa90867daa)
 
-Пришивка
+Пришивка PINOUT
 ![IM565654669](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/b96ab4a2-1b9d-4475-8152-9a95545a28dd)
 
 
