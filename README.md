@@ -9,6 +9,9 @@
 
 ![LYKXE1950](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/38357d4e-b748-42e9-82b9-d08bd01ad3b4)
 
+Zigbee routing ok)
+![emergency_ROUTER_02](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/f2c07416-4be9-45c9-a430-cd48907171f0)
+
 
 
 
