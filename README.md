@@ -6,6 +6,7 @@
 Пришивка PINOUT
 ![IM565654669](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/b96ab4a2-1b9d-4475-8152-9a95545a28dd)
 
+![IMG_E4686](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/e59f5df9-ccf6-4103-ace5-65432e0ad1e2)
 
 ![LYKXE1950](https://github.com/lyovav/CC2530-CC2591-zigbee-router/assets/3407229/38357d4e-b748-42e9-82b9-d08bd01ad3b4)
 
